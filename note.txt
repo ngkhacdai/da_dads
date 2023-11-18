@@ -1,0 +1,1 @@
+server deploy trên render vì là server free nên khi lần đầu đăng nhập hoặc sử dụng api sẽ mất 5-10p để khởi động 
