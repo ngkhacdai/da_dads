@@ -1,0 +1,9 @@
+[submodule "da_dads_food_be"]
+	path = da_dads_food_be
+	url = https://github.com/ngkhacdai/da_dads_food_be
+[submodule "dads_web"]
+	path = dads_web
+	url = https://github.com/ngkhacdai/dads_web
+[submodule "food_app"]
+	path = food_app
+	url = https://github.com/ngkhacdai/food_app
